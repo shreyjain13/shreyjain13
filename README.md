@@ -2,7 +2,10 @@
 
 The central question I am attempting to address is: How do we build confidence in digital communication? 
 
-I am currently a Technical Project Manager Microsoft Research Special Projects and Co-Founder of the Plural Technology Collaboratory(opens in new tab) at Microsoft Research (see mission statement).
+I am currently a Technical Project Manager Microsoft Research Special Projects and Co-Founder of the Plural Technology Collaboratory(opens in new tab) at Microsoft Research.
+
+### For a complete background on my research, talks, and other projects, please check out my [Microsoft Research Profile](https://www.microsoft.com/en-us/research/people/shreyjain/)
+
 
 ### Active Projects
 - Oversee and co-leading responsible AI strategy for Health AI team. 
@@ -15,4 +18,3 @@ I am currently a Technical Project Manager Microsoft Research Special Projects a
 - [Designated verifier signatures](https://ethresear.ch/t/designated-verifier-signatures/15100) 
 - [Zero-knowledge identity badges](https://github.com/enricobottazzi/ZK-SBT) 
 
-### For a complete background on my research, talks, and other projects, please check out my [Microsoft Research Profile](https://www.microsoft.com/en-us/research/people/shreyjain/)
