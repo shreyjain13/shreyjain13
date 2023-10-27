@@ -13,7 +13,9 @@ I am currently a Technical Project Manager Microsoft Research Special Projects a
 - Co-led mechanism design for [Gov4Git AI governance protocol](https://gov4git.org/)  
 
 ### Relevent Technical Projects
-- Co-led design and implementation of the following cryptographic primitives:
+
+Co-led design and implementation of the following cryptographic primitives:
+
 - [Cross-Platform Origin of Content provenance framework](https://github.com/microsoft/xpoc-framework) 
 - [Designated verifier signatures](https://ethresear.ch/t/designated-verifier-signatures/15100) 
 - [Zero-knowledge identity badges](https://github.com/enricobottazzi/ZK-SBT) 
